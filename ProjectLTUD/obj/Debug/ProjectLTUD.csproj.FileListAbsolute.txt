@@ -1,0 +1,91 @@
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.AssemblyReference.cache
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Form1.resources
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Properties.Resources.resources
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.GenerateResource.cache
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CoreCompileInputs.cache
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe.config
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.pdb
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.exe
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.pdb
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.pdb
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.xml
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.pdb
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.xml
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.xml
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CopyComplete
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.IDD_DLG_SETTING.resources
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormAbout.resources
+D:\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormContrast.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe.config
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.pdb
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.pdb
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.xml
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.AssemblyReference.cache
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Form1.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormAbout.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.IDD_DLG_SETTING.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormContrast.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Properties.Resources.resources
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.GenerateResource.cache
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CoreCompileInputs.cache
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CopyComplete
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.exe
+C:\Users\loi\Downloads\ProjectLTUD (1)\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe.config
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.exe
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\ProjectLTUD.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.xml
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.AssemblyReference.cache
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Form1.resources
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormAbout.resources
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.IDD_DLG_SETTING.resources
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.FormContrast.resources
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.Properties.Resources.resources
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.GenerateResource.cache
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CoreCompileInputs.cache
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.csproj.CopyComplete
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.exe
+C:\Users\DAT\Dropbox\My PC (LAPTOP-N0Q5FQSO)\Desktop\ltud\ltud\ProjectLTUD\ProjectLTUD\obj\Debug\ProjectLTUD.pdb
